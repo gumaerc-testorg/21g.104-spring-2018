@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Oral Report and Final Presentation
 uid: 7b426221-51a5-fff7-f9df-2852d5f658a6
 ---

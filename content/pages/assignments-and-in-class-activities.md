@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Assignments and In-class Activities
 uid: 515e0c0b-bf7e-053e-7731-337f78415813
 ---
