@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page provides the class schedule for the MIT course 21G.104 Chinese
+  IV (Regular) of Spring, 2018.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: fea24fb6-61a1-1db3-6144-88b4d16bc1b6
 ---

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page provides the information, including before-class preparation,
+  after-class homework, and in-class activities, of MIT course 21G.104 Chinese IV
+  (Regular) of Spring, 2018.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Assignments and In-class Activities
 uid: 515e0c0b-bf7e-053e-7731-337f78415813
 ---
@@ -699,7 +704,7 @@ No assignment
 {{< tdopen >}}
 
 
-Follow the guidelines of [Oral Report]({{< baseurl >}}/pages/oral-report-and-final-presentation). We look forward to your performance.
+Follow the guidelines of {{% resource_link 7b426221-51a5-fff7-f9df-2852d5f658a6 "Oral Report" %}}. We look forward to your performance.
 
 
 {{< tdclose >}}

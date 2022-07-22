@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page provides course policy and other general information for the
+  MIT course 21G.104 Chinese IV of Spring, 2018.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 92c14490-cf9e-96ad-b95b-5be44af016fe
 ---
