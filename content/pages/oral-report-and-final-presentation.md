@@ -44,7 +44,7 @@ Participation
 
 - **A Useful Online Dictionary**
 
-[Online Chinese-English Talking Dictionary](https://www.yellowbridge.com/chinese/)
+{{% resource_link "246da784-7d8a-443f-901f-0d95978a11d7" "Online Chinese-English Talking Dictionary" %}}
 
 Use this online dictionary with caution. It is recommended to know how the words you need are properly used contextually by consulting your teacher or a native speaker.
 
