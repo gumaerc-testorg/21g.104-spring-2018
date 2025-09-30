@@ -239,7 +239,7 @@ D+ = 69.9-66.7
 
 {{< tableclose >}}
 
-Grades will be recorded on [Gradekeeper](https://www.gradekeeper.com/). Your grade record report is available upon request. If you have a question about a grade, ask your instructor. There is _no curve_ in this course. You are competing against the communicative demands of the language, not against each other. Each person will have to perform to receive credit; but there is nothing in the grading system to discourage collaborative efforts to achieve the highest level of performance possible.
+Grades will be recorded on {{% resource_link "15ca9548-a202-4bf7-8d31-e2249544277c" "Gradekeeper" %}}. Your grade record report is available upon request. If you have a question about a grade, ask your instructor. There is _no curve_ in this course. You are competing against the communicative demands of the language, not against each other. Each person will have to perform to receive credit; but there is nothing in the grading system to discourage collaborative efforts to achieve the highest level of performance possible.
 
 _If you must miss class, please let us know well in advance if possible_. You will be allowed to make up no more than _TWO_ missed classes in this course unless you provide a doctor’s note or a note from your academic advisor to the instructor in advance. The make-ups will be conducted by the instructors by appointment and will cover the work missed. Make-ups are to be arranged within two days of your return to class; missed classes which are not made up within the above time frame or which exceed two in number will be entered as zeroes in your grade record. It is vital that you maintain communication with us if you miss class. You are expected to be in class each hour ready to perform; we do not have the resources to set up a separate program for those who cannot make it to class each hour each day.
 
@@ -259,9 +259,9 @@ _All classes are conducted in Chinese only_. English will not be used except whe
 Useful Resources
 ----------------
 
-*   [Online Chinese-English Talking Dictionary](http://www.yellowbridge.com/chinese)
-*   [Simplified to Traditional Characters Converter](http://www.chinese-tools.com/tools/converter-simptrad.html)
-*   [Chinese Characters to Pinyin Converter](https://www.purpleculture.net/chinese-pinyin-converter/)
+*   {{% resource_link "59e5d927-4a72-45cd-b768-adaad9eafede" "Online Chinese-English Talking Dictionary" %}}
+*   {{% resource_link "6aac435c-322f-489a-85e1-31153a276b81" "Simplified to Traditional Characters Converter" %}}
+*   {{% resource_link "23ccc632-72b6-4048-a0d7-43f015b48f34" "Chinese Characters to Pinyin Converter" %}}
 
 Classroom Etiquette
 -------------------
